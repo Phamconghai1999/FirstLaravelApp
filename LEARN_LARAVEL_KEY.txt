@@ -1,0 +1,8 @@
+Route:
+a)  Route::get
+b)  Route::post
+c)  Route::match
+d)  Route::any
+1,  Route::resource() Xây dựng RESTful(websevice)/RESTful controller
+            php artisan make:controller TenController --resource
+2,  Route::group()
